@@ -5,7 +5,8 @@
   "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
     "advphp",
     "javascript",
-    "plaintext"
+    "plaintext",
+    "env"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "file:\/\/\/Users\/macbook\/book_ok\/app\/Config\/Routes.php",
@@ -40,6 +41,7 @@
     "file:\/\/\/Users\/macbook\/book_ok\/app\/Controllers\/Home.php",
     "file:\/\/\/Users\/macbook\/book_ok\/app\/Models\/UsersModel.php",
     "file:\/\/\/Users\/macbook\/book_ok\/app\/Models\/CompanyModel.php",
+    "file:\/\/\/Users\/macbook\/book_ok\/.env",
     "file:\/\/\/Users\/macbook\/book_ok\/app\/Views\/setupuser\/configuser.php",
     "file:\/\/\/Users\/macbook\/book_ok\/app\/Views\/setupuser\/myuser.php",
     "file:\/\/\/Users\/macbook\/book_ok\/app\/Views\/master\/branch.php",
